@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Gizmo. NEET.
+### Hi there, I'm Gizmo 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GizmoOAO&layout=compact)
 
