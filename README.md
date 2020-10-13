@@ -1,6 +1,6 @@
 ### Hi there, I'm Gizmo 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GizmoOAO&layout=compact)
+![Top Langs](https://github-stats.liuli.lol/api/top-langs/?username=GizmoOAO&layout=compact)
 
 <!--
 **GizmoOAO/GizmoOAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
