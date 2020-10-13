@@ -4,8 +4,6 @@ Gizmo. NEET.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GizmoOAO&layout=compact)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Gizmo_OAO?label=Follow)
-
 <!--
 **GizmoOAO/GizmoOAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
