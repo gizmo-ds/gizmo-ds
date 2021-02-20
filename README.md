@@ -2,6 +2,8 @@
 
 ![Top Langs](https://github-stats.liuli.lol/api/top-langs/?username=GizmoOAO&layout=compact)
 
+![Gizmo's GitHub stats](https://github-stats.liuli.lol/api/?username=GizmoOAO&show_icons=true&include_all_commits=true&count_private=true)
+
 <!--
 **GizmoOAO/GizmoOAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
