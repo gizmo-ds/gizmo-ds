@@ -1,3 +1,3 @@
-### Hi there, I'm Gizmo 👋
-
-[![](https://raw.githubusercontent.com/GizmoOAO/github-profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <img src="https://github.com/GizmoOAO/GizmoOAO/blob/master/images/7b2240130b4f6982.jpg">
+</p>
