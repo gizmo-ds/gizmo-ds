@@ -1,4 +1,4 @@
-name: Update wakatime stats
+name: Update steam stats
 
 on:
   push:
@@ -17,8 +17,9 @@ jobs:
     env:
       UPDATE_OPTION: MARKDOWN
       MARKDOWN_FILE: README.md
-      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+      STEAM_ID: ${{ secrets.STEAM_ID }}
 
     steps:
       - name: Check out git repository
@@ -29,13 +30,13 @@ jobs:
         with:
           go-version: ^1.17
 
-      - name: Install waka-box-go
-        run: go install github.com/YouEclipse/waka-box-go/cmd/box@latest
+      - name: Install steam-box
+        run: go install github.com/YouEclipse/steam-box/cmd/box@latest
 
       - name: Waka box
         run: |
           box
-          git config --global user.email "bot@github.com" && git config --global user.name "Waka-Bot"
+          git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot"
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
           git pull --rebase && git push
