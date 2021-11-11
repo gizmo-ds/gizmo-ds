@@ -1,4 +1,4 @@
-name: Update gist with WakaTime stats
+name: Update wakatime stats
 
 on:
   push:
@@ -33,4 +33,9 @@ jobs:
         run: go install github.com/YouEclipse/waka-box-go/cmd/box@latest
 
       - name: Waka box
-        run: box
+        run: |
+          box
+          git config --global user.email "bot@github.com" && git config --global user.name "Waka-Bot"
+          git diff
+          git add README.md && git commit -m ":memo: update profile" || exit 0
+          git pull --rebase && git push
