@@ -19,6 +19,15 @@ C#             🕓 3 hrs 55 mins  █▎░░░░░░░░░░░░░
 </td>
 <td valign="top" width="50%">
 <!-- steam-box start -->
+🎮 Steam playtime leaderboard
+```text
+🎮 VRChat                           🕘 4630 hrs 33 mins
+🎮 SteamVR                          🕘 1925 hrs 4 mins
+🎮 Destiny 2                        🕘 1037 hrs 23 mins
+🎮 Blender                          🕘 411 hrs 57 mins
+🎮 XSOverlay                        🕘 383 hrs 32 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 </td>
 </tr>
