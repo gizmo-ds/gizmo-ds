@@ -15,11 +15,14 @@ jobs:
     name: Update
     runs-on: ubuntu-latest
     env:
-      UPDATE_OPTION: MARKDOWN
-      MARKDOWN_FILE: README.md
-      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      UPDATE_OPTION: GIST
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       STEAM_ID: ${{ secrets.STEAM_ID }}
+      GIST_ID: 4ddab6ce007e215174a893f896eea590
+      GIST_BARSTYLE: SOLIDLT
+      GIST_BARLENGTH: -1
+      GIST_TIMESTYLE: SHORT
 
     steps:
       - name: Check out git repository
