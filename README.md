@@ -1,3 +1,4 @@
-<p align="center">
-  <img src="https://github.com/GizmoOAO/GizmoOAO/blob/master/images/7b2240130b4f6982.jpg">
+<p>
+  <p>Hi there, I'm Gizmo 👋</p>
+  <img src="https://assets.liuli.lol/file/lumina-moe/icons/icon.png" width="80" height="80" align="right">
 </p>
