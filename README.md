@@ -5,4 +5,4 @@
 
 ![GitHub Stats](https://github-stats.liuli.lol/api?username=GizmoOAO&show_icons=true&include_all_commits=true&count_private=true&theme=vue)
 
-![Moe-counter](https://moe-counter-vercel.vercel.app/get/@gizmo.github?theme=rule34)
+[![Moe-counter](https://moe-counter-vercel.vercel.app/get/@gizmo.github?theme=rule34)](https://github.com/GizmoOAO/moe-counter-vercel)
