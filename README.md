@@ -3,4 +3,4 @@
   <p>Hi there, I'm Gizmo 👋</p>
 </p>
 
-![Moe-counter](https://count.getloli.com/get/@Gizmo?theme=moebooru)
+![Moe-counter](https://count.getloli.com/get/@Gizmo?theme=rule34)
