@@ -3,6 +3,6 @@
   <p>Hi there, I'm Gizmo 👋</p>
 </p>
 
-![GitHub Stats](https://github-stats.liuli.lol/api?username=GizmoOAO&show_icons=true&include_all_commits=true&count_private=true&theme=vue)
+<img src="https://github-stats.liuli.lol/api?username=GizmoOAO&show_icons=true&include_all_commits=true&count_private=true&theme=vue" height="195" title="GitHub Stats">
 
 [![Moe-counter](https://moe-counter-vercel.vercel.app/get/@gizmo.github?theme=rule34)](https://github.com/GizmoOAO/moe-counter-vercel)
