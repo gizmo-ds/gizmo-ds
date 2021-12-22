@@ -8,5 +8,3 @@
 <a href="https://github.com/GizmoOAO/moe-counter-vercel">
   <img src="https://moe-counter-vercel.vercel.app/get/@gizmo.github?theme=rule34" height="100" title="moe-counter">
 </a>
-
-![wakatime](https://wakatime.com/badge/user/43608a5f-a526-48f9-9628-9ae724c4d993.svg?style=flat-square)
