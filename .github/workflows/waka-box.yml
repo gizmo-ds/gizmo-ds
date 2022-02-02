@@ -32,12 +32,9 @@ jobs:
         with:
           go-version: ^1.17
 
-      - name: Install waka-box-go
-        run: go install github.com/YouEclipse/waka-box-go/cmd/box@latest
-
       - name: Waka box
         run: |
-          box
+          go run cmd/waka-box/main.go
           git config --global user.email "bot@github.com" && git config --global user.name "Waka-Bot"
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
