@@ -4,7 +4,6 @@
 </p>
 
 ![WakaTime](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Gizmo/interval:7_days&style=flat-square&color=2F855A&label=last%207%20days&logo=WakaTime)
-[![ko-fi](https://img.shields.io/badge/Ko--fi-Donate!-%23FF5E5B?style=flat-square&logo=ko-fi&logoColor=FFFFFF)](https://ko-fi.com/W7W6ABCJV)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=GizmoOAO&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula">
