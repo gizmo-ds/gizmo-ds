@@ -1,5 +1,5 @@
 <p>
-  <img src="https://assets.liuli.lol/file/lumina-moe/icons/icon.png" width="80" height="80" align="right">
+  <img src="https://assets.liuli.lol/file/lumina-moe/icons/2022-06-22.png" width="100" height="100" align="right">
   <p>Hi there, I'm Gizmo 👋</p>
 </p>
 
