@@ -5,4 +5,4 @@
 )](https://afdian.net/a/gizmo)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-%E2%9D%A4%EF%B8%8F-blue?logo=kofi&color=%23fff)](https://ko-fi.com/gizmo_)
 
-![打钱!](https://afdian-connect.deno.dev/sponsor.svg)
+[![打钱!](https://afdian-connect.deno.dev/sponsor.svg)](https://afdian.net/a/gizmo)
