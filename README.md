@@ -1,9 +1,9 @@
 ### Hi there, I'm Gizmo! 👋
 
 - 🔭 I’m currently working on what I’m working on.
-- 🌱 I’m currently learning how to write less terrifying code.
+- 🌱 I’m currently learning what I’m learning.
 - 👯 I’m looking to collaborate on innovative projects or just for fun.
-- 🤔 I’m looking for tips on how to make coding less daunting.
+- 🤔 I’m currently searching for the meaning of life.
 - 💬 Ask me about the origins of the universe or the meaning of life.
 - 📫 How to reach me: Check the email under my avatar on the left; I trust you can find it.
 - ⚡ Fun fact: You can extend my lifespan by [sponsoring me](https://afdian.net/a/gizmo).
