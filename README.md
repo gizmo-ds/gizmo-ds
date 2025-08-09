@@ -10,8 +10,7 @@
 
 I don't use vim BTW.
 
-[![爱发电](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-Gizmo-%23946ce6
-)](https://afdian.com/a/gizmo)
+[![爱发电](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-Gizmo-%23946ce6)](https://afdian.com/a/gizmo)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-%E2%9D%A4%EF%B8%8F-blue?logo=kofi&color=%23fff)](https://ko-fi.com/gizmo_)
 ![WakaTime](https://img.shields.io/endpoint?url=https%3A%2F%2Fwakapi.aika.dev%2Fapi%2Fcompat%2Fshields%2Fv1%2FGizmo%2Finterval%3A30_days&color=2F855A&label=last%2030%20days&logo=WakaTime)
 
