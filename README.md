@@ -14,4 +14,4 @@ I don't use vim BTW.
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-%E2%9D%A4%EF%B8%8F-blue?logo=kofi&color=%23fff)](https://ko-fi.com/gizmo_)
 ![WakaTime](https://img.shields.io/endpoint?url=https%3A%2F%2Fwakapi.aika.dev%2Fapi%2Fcompat%2Fshields%2Fv1%2FGizmo%2Finterval%3A30_days&color=2F855A&label=last%2030%20days&logo=WakaTime)
 
-[![Sponsors](https://afdian-connect.deno.dev/sponsor.svg)](https://afdian.com/a/gizmo)
+[![Sponsors](https://afdian-connect.vercel.app/sponsor.svg)](https://afdian.com/a/gizmo)
